@@ -1,0 +1,32 @@
+{
+  "name": "pierre",
+  "version": "0.0.0",
+  "description": "A waiter module. Wait for this id to be served then run this function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MauriceButler/pierre.git"
+  },
+  "keywords": [
+    "pierre",
+    "await",
+    "waiter",
+    "callback",
+    "poll",
+    "promise",
+    "longpoll",
+    "pub",
+    "sub",
+    "publish",
+    "subscribe"
+  ],
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/pierre/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/pierre"
+}
