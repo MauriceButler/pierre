@@ -12,7 +12,7 @@ function waitFor(id, callback){
 function ready(id){
     if(orders[id]){
         while(orders[id].length){
-            orders[id].shift()();
+            orders[id].shift().apply(undefined, Array.prototype.slice.call(arguments, 1));
         }
     }
 }
