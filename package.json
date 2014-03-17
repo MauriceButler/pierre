@@ -1,6 +1,6 @@
 {
   "name": "pierre",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A waiter module. Wait for this id to be served then run this function",
   "main": "index.js",
   "scripts": {
