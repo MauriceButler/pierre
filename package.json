@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/MauriceButler/pierre/issues"
   },
-  "homepage": "https://github.com/MauriceButler/pierre"
+  "homepage": "https://github.com/MauriceButler/pierre",
+  "devDependencies": {
+    "grape": "^0.1.10"
+  }
 }
